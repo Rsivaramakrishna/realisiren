@@ -1,0 +1,33 @@
+{
+    "started_at": "2026-10-07T06:13:46+00:00",
+    "finished_at": "2026-10-07T06:31:53+00:00",
+    "duration_seconds": 1087.55,
+    "sources": {
+        "Books to Scrape": {
+            "pages_scraped": 50,
+            "raw_collected": 1000,
+            "parse_errors": 0,
+            "cleaned": 1000,
+            "rejected_total": 0,
+            "rejected_by_reason": {},
+            "duplicates": 1,
+            "final": 999
+        },
+        "Quotes to Scrape": {
+            "pages_scraped": 10,
+            "raw_collected": 100,
+            "parse_errors": 0,
+            "cleaned": 100,
+            "rejected_total": 0,
+            "rejected_by_reason": {},
+            "duplicates": 0,
+            "final": 100
+        }
+    },
+    "totals": {
+        "raw_collected": 1100,
+        "rejected": 0,
+        "duplicates": 1,
+        "final_record_count": 1099
+    }
+}
